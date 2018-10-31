@@ -1,1 +1,1 @@
-INSERT INTO urls (shorturl, originalurl) VALUES (1, 'http://www.google.com');
+INSERT INTO urls (originalurl) VALUES ('http://www.google.com');
